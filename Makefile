@@ -1,5 +1,7 @@
 help:
-	@echo "Hello Toys!!"
+	@echo "toy <command> [<options...>]"
+	@echo
+	@echo "toy clone <repository url>"
 clone:
 	git clone $(PARAM1)
 install_to_bash:
