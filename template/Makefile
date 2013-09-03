@@ -1,2 +1,2 @@
 create:
-	@cd $(NAME); make
+	@cd $(PRJLANG); make
