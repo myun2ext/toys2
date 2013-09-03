@@ -1,0 +1,2 @@
+create:
+	@cd $(NAME); make
