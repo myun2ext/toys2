@@ -5,10 +5,10 @@ Crane / Toys, Toy
 
 ### How to Startup?
 
-Git clone to your home directory
+1. Clone by git, to your home directory
 
 ```
-$  cd
+$ cd
 $ git clone https://github.com/myun2ext/toys2.git
 Cloning into 'toys2'...
 remote: Counting objects: 61, done.
