@@ -1,7 +1,7 @@
 create:
 ifdef PRJLANG
-	@cd $(PRJLANG); make
+	@cd $(PJLANG); make
 else
-	@echo "Error!"
-	@echo "Please specify PRJLANG=xxx parameter."
+	@echo "[toys/template] make create Error!"
+	@echo "Please specify PJLANG=xxx parameter."
 endif
