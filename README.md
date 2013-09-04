@@ -3,7 +3,7 @@ Crane / Toys, Toy
 **Toy is can your Programming Project Startup to Easily!!!**
 
 
-### How to Startup?
+## How to Startup?
 
 1. Git clone to your home directory
 
