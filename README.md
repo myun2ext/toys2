@@ -8,13 +8,20 @@ Crane / Toys, Toy
 1. Git clone to your home directory
 
 ```
-$ cd
-$ git clone https://github.com/myun2ext/toys2.git
+[foor@bar fizz]$ cd
+[foor@bar ~]$ git clone https://github.com/myun2ext/toys2.git
 Cloning into 'toys2'...
 remote: Counting objects: 61, done.
 remote: Compressing objects: 100% (42/42), done.
 remote: Total 61 (delta 14), reused 48 (delta 8)
 Unpacking objects: 100% (61/61), done.
 Checking connectivity... done
-$
+[foor@bar ~]$
+```
+
+if you used shell is `bash` than you type command to `make install_to_bash`
+
+```
+[foor@bar ~] cd toys2
+[foor@bar ~] make install_to_bash
 ```
