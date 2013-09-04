@@ -5,7 +5,7 @@ Crane / Toys, Toy
 
 ### How to Startup?
 
-1. Clone by git, to your home directory
+1. Git clone to your home directory
 
 ```
 $ cd
