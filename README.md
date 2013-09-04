@@ -19,7 +19,7 @@ Checking connectivity... done
 [foor@bar ~]$
 ```
 
-if you used `bash` than You type command to `make install_to_bash`
+if you used `bash` than please type command of `make install_to_bash`
 
 ```
 [foor@bar ~] cd toys2
