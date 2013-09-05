@@ -1,5 +1,5 @@
 create:
-ifdef PRJLANG
+ifdef PJLANG
 	@cd $(PJLANG); make
 else
 	@echo "[toys/template] make create Error!"
