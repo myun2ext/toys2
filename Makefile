@@ -1,4 +1,5 @@
 help:
+	@echo -e "\e[36m--- Toy v-0.1 ---\e[0m"
 	@echo "toy <command> [<options...>]"
 	@echo
 	@echo "toy clone <repository url>"
