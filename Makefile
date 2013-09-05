@@ -11,6 +11,10 @@ get:
 	@echo Create Directory for $(PARAM1)
 	@mkdir -p $(PARAM1)
 	@cd $(PARAM1); git clone https://github.com/$(PARAM1)/$(PARAM2).git
+update:
+	git pull
+push:
+	git push
 create:
 	@cd template; make create PJLANG=$(PARAM1)
 install_to_bash:
